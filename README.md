@@ -18,3 +18,20 @@
 
 ![photo_2022-09-06_19-46-29](https://user-images.githubusercontent.com/108235776/188674063-a7e3f202-ef3b-4da0-9a77-cb5dc1978aee.jpg)
 
+---
+
+# practice33
+
+![photo_2022-09-13_14-13-04](https://user-images.githubusercontent.com/108235776/189870532-2cd5d47d-d274-45de-b195-b0ab6111a941.jpg)
+
+![photo_2022-09-13_14-13-15](https://user-images.githubusercontent.com/108235776/189870546-35d8762a-1404-4639-8067-99cf0604b0e3.jpg)
+
+![photo_2022-09-13_14-13-35](https://user-images.githubusercontent.com/108235776/189870558-281fff9c-b694-4879-b161-cbcb768ffcac.jpg)
+
+![photo_2022-09-13_14-13-54](https://user-images.githubusercontent.com/108235776/189870565-de24d657-e28c-4c7b-90b6-b41c4632e30b.jpg)
+
+![photo_2022-09-13_14-14-05](https://user-images.githubusercontent.com/108235776/189870568-182913fc-5bf1-4d72-b995-ecc933775956.jpg)
+
+![photo_2022-09-13_14-14-18](https://user-images.githubusercontent.com/108235776/189870575-49733ad1-2b09-4271-8d51-e3c41f386c50.jpg)
+
+![photo_2022-09-13_14-14-33](https://user-images.githubusercontent.com/108235776/189870584-1d1ed7b4-c7ce-4b33-8093-b67c0d46b5ab.jpg)
