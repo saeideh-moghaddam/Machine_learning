@@ -35,3 +35,10 @@
 ![photo_2022-09-13_14-14-18](https://user-images.githubusercontent.com/108235776/189870575-49733ad1-2b09-4271-8d51-e3c41f386c50.jpg)
 
 ![photo_2022-09-13_14-14-33](https://user-images.githubusercontent.com/108235776/189870584-1d1ed7b4-c7ce-4b33-8093-b67c0d46b5ab.jpg)
+
+
+---
+
+# practice34
+
+![photo_2022-09-25_19-22-41](https://user-images.githubusercontent.com/108235776/192153288-8e5a512c-e954-43d7-8d50-1862ef762c60.jpg)
