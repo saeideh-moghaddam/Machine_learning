@@ -41,4 +41,5 @@
 
 # practice34
 
-![photo_2022-09-25_19-22-41](https://user-images.githubusercontent.com/108235776/192153288-8e5a512c-e954-43d7-8d50-1862ef762c60.jpg)
+![photo_2022-09-25_19-22-41](https://user-images.githubusercontent.com/108235776/192153361-1a172930-a992-4c9a-9293-b54cda667bf7.jpg)
+
