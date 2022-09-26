@@ -52,3 +52,5 @@
 ![photo_2022-09-26_20-28-59](https://user-images.githubusercontent.com/108235776/192338315-32b5f4d7-055f-4093-b96c-4e4f41fcd08f.jpg)
 
 **Analysis of coronavirus data shows 8 affected countries in April 2020**
+
+---
