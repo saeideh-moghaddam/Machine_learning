@@ -78,6 +78,8 @@ For the iris dataset, plot the confusion matrix
 
 
 
+
+
 ![photo_2022-11-03_19-55-03](https://user-images.githubusercontent.com/108235776/199779737-e74ece7a-8dc6-47db-ad6f-b82220fb0ab0.jpg)
 
  Continuous stochastic data for the problem of the number of hours of study (X) and students' score (Y) in the form of: "The more you study, the higher you get."
