@@ -54,3 +54,27 @@
 **Analysis of coronavirus data shows 8 affected countries in April 2020**
 
 ---
+
+# practice35
+
+![photo_2022-11-03_19-58-57](https://user-images.githubusercontent.com/108235776/199779270-0d7a938d-d2de-44f3-8bd9-cf97578fc568.jpg)
+
+
+
+
+![photo_2022-11-03_19-59-10](https://user-images.githubusercontent.com/108235776/199779349-776ca680-8ab6-4a1c-b52f-d41a3fa4e2ee.jpg)
+
+
+
+![photo_2022-11-03_19-59-27](https://user-images.githubusercontent.com/108235776/199779449-fb028a92-918d-4ea0-906e-c5a137fd0738.jpg)
+
+---
+
+# practice36
+
+![photo_2022-11-03_19-53-47](https://user-images.githubusercontent.com/108235776/199779592-444ce4cb-2c58-401e-916f-1c8071f5012d.jpg)
+
+
+
+
+![photo_2022-11-03_19-55-03](https://user-images.githubusercontent.com/108235776/199779737-e74ece7a-8dc6-47db-ad6f-b82220fb0ab0.jpg)
